@@ -234,7 +234,7 @@ options:
                     required: false
                     type: boolean
                 ipv6_assignment_type:
-                    description: 'Its enum which will have value as 'STATIC', this variable is explicitly for Edge TN creation'
+                    description: 'Its enum which will have value as "STATIC", this variable is explicitly for Edge TN creation'
                     required: false
                     type: str
                 compute:
